@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">CarrosMaterial</string>
+    <string name="blanco">White</string>
+    <string name="borrar">Clean</string>
+    <string name="cancelar">Cancel</string>
+    <string name="editar_carro">Edit</string>
+    <string name="eliminar_mensaje">Are you sure you want to delete this cart?</string>
+    <string name="existe_placa">This badge is already registered</string>
+    <string name="guardar">Save</string>
+    <string name="informacion">Information</string>
+    <string name="marca">Brand</string>
+    <string name="mensaje_error_placa">You must enter the badge</string>
+    <string name="mensaje_error_precio">You must enter the price</string>
+    <string name="mensaje_modificado">Successful Modification</string>
+    <string name="modelo">Model</string>
+    <string name="negro">Black</string>
+    <string name="placa">Plaque</string>
+    <string name="precio">Price</string>
+    <string name="registro_carros">Car Registration</string>
+    <string name="registro_guardado">Car saved successfully</string>
+    <string name="rojo">Red</string>
+    <string name="si_eliminar_mensaje">Yes</string>
+    <string name="titulo_eliminar_mensaje">Delete Car</string>
+    <string name="kia">kia</string>
+    <string name="no_eliminar_mensaje">Deleted message</string>
+    <string name="renault">Renault</string>
+    <string name="chevrolet">Chevrolet</string>
+</resources>
